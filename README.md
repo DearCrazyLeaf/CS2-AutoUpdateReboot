@@ -2,6 +2,8 @@
 
 This is a tool for automatically monitoring and restarting Counter-Strike 2 (CS2) servers. When the CS2 server process is detected to be down, it can automatically execute an update script (if configured) and restart the server.
 
+![1347_U2SQHATASM2MHXX](https://github.com/user-attachments/assets/0eaaf59f-1439-49e2-bad5-5e18c1f45d18)
+
 ## Features
 
 - **Automatic Monitoring**: Regularly checks if the CS2 server process is running.
@@ -58,7 +60,7 @@ This script can be used in conjunction with the CS2 AutoUpdate plugin to enable 
 Feel free to create Issues or submit Pull Requests if you have any questions, suggestions, or would like to contribute to the project.
 
 ---
-
+# 中文版介绍
 # 基于Powershell script 的 CS2 服务器自动监控和重启更新器
 
 这是一个用于《反恐精英2》(CS2)服务器的自动监控和重启工具，当检测到CS2服务器进程消失时，能够自动执行更新脚本（如果配置了路径）并重新启动服务器，如若搭配自动检测更新插件使用可以达到自动化重启更新的效果，具体查看下列介绍。
