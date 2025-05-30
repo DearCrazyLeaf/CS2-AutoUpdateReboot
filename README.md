@@ -12,17 +12,17 @@
     </a>
   </div>
   
-  <div style="margin: 20px 0;">
+# CS2-AutoUpdateReboot Powershell script
+
+<div style="margin: 20px 0;">
     <a href="#中文版介绍">
-      <img src="https://img.shields.io/badge/跳转到中文版-🇨🇳-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="跳转到中文版">
+      <img src="https://img.shields.io/badge/跳转到中文版-🇨🇳-red?style=for-the-badge&logo=github&logoColor=white" alt="跳转到中文版">
     </a>
   </div>
 </div>
 
-# CS2-AutoUpdateReboot Powershell script
-
- This is a tool for automatically monitoring and restarting Counter-Strike 2 (CS2) servers. When the CS2 server process is detected to be down, it can automatically execute an update script (if configured) and restart the server, If used together with [CS2 AutoUpdate](https://github.com/M1Kac/CS2-AutoUpdate), it can achieve automated restarts and updates. 
-For more details, see the introduction below.
+ **This is a tool for automatically monitoring and restarting Counter-Strike 2 (CS2) servers. When the CS2 server process is detected to be down, it can automatically execute an update script (if configured) and restart the server, If used together with [CS2 AutoUpdate](https://github.com/M1Kac/CS2-AutoUpdate), it can achieve automated restarts and updates. 
+For more details, see the introduction below.**
 
 ![1347_U2SQHATASM2MHXX](https://github.com/user-attachments/assets/0eaaf59f-1439-49e2-bad5-5e18c1f45d18)
 
