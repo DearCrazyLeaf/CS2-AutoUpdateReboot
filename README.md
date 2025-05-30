@@ -1,14 +1,14 @@
 <div style="margin: 20px 0;">
-    <a href="#中文版介绍">
-        <img src="https://img.shields.io/badge/跳转到中文版-中文介绍-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="跳转到中文版">
+    <a href="#中文版介绍" style="margin-left: 0; text-decoration: none;">
+        <img src="https://img.shields.io/badge/跳转到中文版-中文介绍-red?style=for-the-badge&logo=github&logoColor=white" alt="跳转到中文版">
     </a>
-    <a href="https://github.com/M1Kac/CS2-AutoUpdateReboot/blob/main/LICENSE" target="_blank" style="margin-left: 10px;">
-        <img src="https://img.shields.io/badge/License-GPL%20v3-blue?style=for-the-badge&logo=gnu" alt="GPL v3 License">
+    <a href="https://github.com/DearCrazyLeaf/CS2-AutoUpdateReboot-PoweshellScript/blob/main/LICENSE.txt" target="_blank" style="margin-left: 10px; text-decoration: none;">
+        <img src="https://img.shields.io/badge/License-GPL%20v3-orange?style=for-the-badge&logo=github" alt="GPL v3 License">
     </a>
-    <a href="https://github.com/DearCrazyLeaf/CS2-AutoUpdateReboot-PoweshellScript/issues" target="_blank" style="margin-left: 15px;">
+    <a href="https://github.com/DearCrazyLeaf/CS2-AutoUpdateReboot-PoweshellScript/issues" target="_blank" style="margin-left: 10px; text-decoration: none;">
         <img src="https://img.shields.io/github/issues/DearCrazyLeaf/CS2-AutoUpdateReboot-PoweshellScript?style=for-the-badge&logo=github" alt="GitHub Issues">
     </a>
-    <a href="https://github.com/DearCrazyLeaf/CS2-AutoUpdateReboot-PoweshellScript/stargazers" target="_blank" style="margin-left: 15px;">
+    <a href="https://github.com/DearCrazyLeaf/CS2-AutoUpdateReboot-PoweshellScript/stargazers" target="_blank" style="margin-left: 10px; text-decoration: none;">
         <img src="https://img.shields.io/github/stars/DearCrazyLeaf/CS2-AutoUpdateReboot-PoweshellScript?style=for-the-badge&logo=github" alt="GitHub Stars">
     </a>
 </div>
