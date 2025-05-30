@@ -1,6 +1,6 @@
 # CS2-AutoUpdateReboot Powershell script
 
-This is a tool for automatically monitoring and restarting Counter-Strike 2 (CS2) servers. When the CS2 server process is detected to be down, it can automatically execute an update script (if configured) and restart the server, If used together with [CS2 AutoUpdate](https://github.com/M1Kac/CS2-AutoUpdate), it can achieve automated restarts and updates. 
+ This is a tool for automatically monitoring and restarting Counter-Strike 2 (CS2) servers. When the CS2 server process is detected to be down, it can automatically execute an update script (if configured) and restart the server, If used together with [CS2 AutoUpdate](https://github.com/M1Kac/CS2-AutoUpdate), it can achieve automated restarts and updates. 
 For more details, see the introduction below.
 
 ![1347_U2SQHATASM2MHXX](https://github.com/user-attachments/assets/0eaaf59f-1439-49e2-bad5-5e18c1f45d18)
@@ -16,24 +16,20 @@ For more details, see the introduction below.
 
 ### Download the Script
 
-Click Code to download the script ZIP file.
-
-Extract the downloaded file to a suitable location on your server.
+ Click Code to download the script ZIP file.
+ Extract the downloaded file to a suitable location on your server.
 
 ### Configure the Script
 
-Open the `服务器自动重启.ps1` file.
-
-Configure the following parameters:
+ Open the `服务器自动重启.ps1` file.
+ Configure the following parameters:
 
 - `$launchBatPath`: Specify the full path to your server launch script (.bat file). For example: `C:\steam\server\start.bat`.
 - `$updateScriptPath`: Specify the full path to your server update script (.bat file). If you don't need automatic update functionality, leave this empty. For example: `C:\steam\server\update.bat`.
 
 ### Run the Script
 
-Double-click the `启动监控.cmd` file to launch the script.
-
-The script will begin monitoring the CS2 server process.
+ Double-click the `启动监控.cmd` file to launch the script, The script will begin monitoring the CS2 server process.
 
 ## Script Parameter Instructions
 
@@ -54,19 +50,19 @@ The script will begin monitoring the CS2 server process.
 
 ## Using with CS2 AutoUpdate Plugin
 
-This script can be used in conjunction with the CS2 AutoUpdate plugin to enable in-game regular update checks or administrator-initiated update checks and remote server shutdowns. It will then automatically execute the update script and start the server. For more details about the plugin, visit the [CS2 AutoUpdate](https://github.com/M1Kac/CS2-AutoUpdate).
+ This script can be used in conjunction with the CS2 AutoUpdate plugin to enable in-game regular update checks or administrator-initiated update checks and remote server shutdowns. It will then automatically execute the update script and start the server. For more details about the plugin, visit the [CS2 AutoUpdate](https://github.com/M1Kac/CS2-AutoUpdate).
 
 ## Contributing
 
-Feel free to create Issues or submit Pull Requests if you have any questions, suggestions, or would like to contribute to the project.
+ Feel free to create Issues or submit Pull Requests if you have any questions, suggestions, or would like to contribute to the project.
 
 ---
 # 中文版介绍
 # 基于 Powershell 脚本的 CS2 服务器自动监控和重启更新器
 
-这是一个用于 Counter-Strike 2（CS2）服务器的自动监控和重启工具，当检测到CS2服务器进程消失时，能够自动执行更新脚本（如果配置了路径）并重新启动服务器，如若搭配自动检测更新插件使用可以达到自动化重启更新的效果，具体查看下列介绍
+ 这是一个用于 Counter-Strike 2（CS2）服务器的自动监控和重启工具，当检测到CS2服务器进程消失时，能够自动执行更新脚本（如果配置了路径）并重新启动服务器，如若搭配自动检测更新插件使用可以达到自动化重启更新的效果，具体查看下列介绍
 
-中文论坛帖子：https://bbs.csgocn.net/thread-1014.htm
+ 中文论坛帖子：https://bbs.csgocn.net/thread-1014.htm
 
 ## 特性
 
@@ -79,13 +75,12 @@ Feel free to create Issues or submit Pull Requests if you have any questions, su
 
 ### 下载脚本
 
-点击仓库主页的 Code 并下载最新版本的脚本ZIP文件
-
-将下载的文件解压到服务器上的合适位置
+ 点击仓库主页的 Code 并下载最新版本的脚本ZIP文件
+ 将下载的文件解压到服务器上的合适位置
 
 ### 配置脚本
 
-打开 `服务器自动重启.ps1` 文件
+ 打开 `服务器自动重启.ps1` 文件
 
 配置以下参数：
 
@@ -94,9 +89,7 @@ Feel free to create Issues or submit Pull Requests if you have any questions, su
 
 ### 运行脚本
 
-双击 `启动监控.cmd` 文件启动脚本
-
-脚本将开始监控 CS2 服务器进程
+ 双击 `启动监控.cmd` 文件启动脚本，脚本将开始监控 CS2 服务器进程
 
 ## 脚本参数说明
 
@@ -117,8 +110,8 @@ Feel free to create Issues or submit Pull Requests if you have any questions, su
 
 ## 配合 CS2 AutoUpdate 插件使用
 
-该脚本可以与 CS2 AutoUpdate 插件配合使用，实现游戏内定期检测更新或管理员手动检测更新并远程关服后，自动执行更新脚本并启动服务器的功能。有关插件的更多信息，请访问 [CS2 AutoUpdate](https://github.com/M1Kac/CS2-AutoUpdate)
+ 该脚本可以与 CS2 AutoUpdate 插件配合使用，实现游戏内定期检测更新或管理员手动检测更新并远程关服后，自动执行更新脚本并启动服务器的功能。有关插件的更多信息，请访问 [CS2 AutoUpdate](https://github.com/M1Kac/CS2-AutoUpdate)
 
 ## 贡献
 
-如果您有任何问题、建议或希望贡献代码，请随时创建 Issue 或提交 Pull Request
+ 如果您有任何问题、建议或希望贡献代码，请随时创建 Issue 或提交 Pull Request
