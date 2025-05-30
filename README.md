@@ -1,3 +1,24 @@
+<div align="center">
+ 
+  <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
+    <a href="https://github.com/DearCrazyLeaf/CS2-AutoUpdateReboot-PoweshellScript/stargazers" target="_blank">
+      <img src="https://img.shields.io/github/stars/DearCrazyLeaf/CS2-AutoUpdateReboot-PoweshellScript?style=for-the-badge&logo=github&color=blue" alt="GitHub stars">
+    </a>
+    <a href="https://github.com/DearCrazyLeaf/CS2-AutoUpdateReboot-PoweshellScript/issues" target="_blank">
+      <img src="https://img.shields.io/github/issues/DearCrazyLeaf/CS2-AutoUpdateReboot-PoweshellScript?style=for-the-badge&logo=github&color=yellow" alt="GitHub issues">
+    </a>
+    <a href="https://github.com/DearCrazyLeaf/CS2-AutoUpdateReboot-PoweshellScript/network/members" target="_blank">
+      <img src="https://img.shields.io/github/forks/DearCrazyLeaf/CS2-AutoUpdateReboot-PoweshellScript?style=for-the-badge&logo=github&color=green" alt="GitHub forks">
+    </a>
+  </div>
+  
+  <div style="margin: 20px 0;">
+    <a href="#中文版介绍">
+      <img src="https://img.shields.io/badge/跳转到中文版-🇨🇳-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="跳转到中文版">
+    </a>
+  </div>
+</div>
+
 # CS2-AutoUpdateReboot Powershell script
 
  This is a tool for automatically monitoring and restarting Counter-Strike 2 (CS2) servers. When the CS2 server process is detected to be down, it can automatically execute an update script (if configured) and restart the server, If used together with [CS2 AutoUpdate](https://github.com/M1Kac/CS2-AutoUpdate), it can achieve automated restarts and updates. 
