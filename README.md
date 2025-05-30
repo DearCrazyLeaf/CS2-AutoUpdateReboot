@@ -61,7 +61,7 @@ Feel free to create Issues or submit Pull Requests if you have any questions, su
 
 ---
 # 中文版介绍
-# 基于Powershell script 的 CS2 服务器自动监控和重启更新器
+# 基于 Powershell script 的 CS2 服务器自动监控和重启更新器
 
 这是一个用于《反恐精英2》(CS2)服务器的自动监控和重启工具，当检测到CS2服务器进程消失时，能够自动执行更新脚本（如果配置了路径）并重新启动服务器，如若搭配自动检测更新插件使用可以达到自动化重启更新的效果，具体查看下列介绍。\
 
