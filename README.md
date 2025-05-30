@@ -17,6 +17,7 @@ For more details, see the introduction below.
 ### Download the Script
 
  Click Code to download the script ZIP file.
+ 
  Extract the downloaded file to a suitable location on your server.
 
 ### Configure the Script
@@ -76,6 +77,7 @@ For more details, see the introduction below.
 ### 下载脚本
 
  点击仓库主页的 Code 并下载最新版本的脚本ZIP文件
+ 
  将下载的文件解压到服务器上的合适位置
 
 ### 配置脚本
