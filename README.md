@@ -19,7 +19,7 @@ Extract the downloaded file to a suitable location on your server.
 
 ### Configure the Script
 
-Open the `Server AutoRestart.ps1` file.
+Open the `服务器自动重启.ps1` file.
 
 Configure the following parameters:
 
