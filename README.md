@@ -5,8 +5,6 @@
   </div>
 </div>
 
-
-
 # CS2-AutoUpdateReboot Powershell script
 
  **This is a tool for automatically monitoring and restarting Counter-Strike 2 (CS2) servers. When the CS2 server process is detected to be down, it can automatically execute an update script (if configured) and restart the server, If used together with [CS2 AutoUpdate](https://github.com/M1Kac/CS2-AutoUpdate), it can achieve automated restarts and updates. 
