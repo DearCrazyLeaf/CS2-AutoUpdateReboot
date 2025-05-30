@@ -34,7 +34,7 @@ For more details, see the introduction below.**
  Find and configure the following parameters:
  ```ps1
  # User Configuration Area
- $targetProcessName = "cs2"   # Default process is cs2. Replace if monitoring a different process (without .exe suffix)
+ $targetProcessName = "cs2"   # Default process is cs2, replace if monitoring a different process (without .exe suffix)
  $launchBatPath = ""          # Path to your server launch batch script
  $updateScriptPath = ""       # Path to server update script (leave empty if update not required)
  $checkInterval = 5
@@ -107,7 +107,7 @@ For more details, see the introduction below.**
  找到并配置以下参数：
  ```ps1
  # 用户配置区域
- $targetProcessName = "cs2"   #这里默认进程是cs2,如果想要检测其他的进程请替换！（后面不带.exe）
+ $targetProcessName = "cs2"   #这里默认进程是cs2，如果想要检测其他的进程请替换！（后面不带.exe）
  $launchBatPath = ""          #这里填写你的服务器启动bat脚本文件路径
  $updateScriptPath = ""       #这里填写服务器更新bat脚本的路径，如果不需要更新功能可以留空
  $checkInterval = 5
