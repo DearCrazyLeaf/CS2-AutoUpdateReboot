@@ -88,7 +88,7 @@ For more details, see the introduction below.**
  ## License
 
  <a href="https://www.gnu.org/licenses/gpl-3.0.txt" target="_blank" style="margin-left: 10px; text-decoration: none;">
-        <img src="https://img.shields.io/badge/License-GPL%20v3-orange?style=for-the-badge&logo=github" alt="GPL v3 License">
+        <img src="https://img.shields.io/badge/License-GPL%203.0-orange?style=for-the-badge&logo=gnu" alt="GPL v3 License">
     </a>
 
 ---
@@ -167,7 +167,7 @@ For more details, see the introduction below.**
 ## 许可证
 
 <a href="https://www.gnu.org/licenses/gpl-3.0.txt" target="_blank" style="margin-left: 10px; text-decoration: none;">
-        <img src="https://img.shields.io/badge/License-GPL%20v3-orange?style=for-the-badge&logo=github" alt="GPL v3 License">
+        <img src="https://img.shields.io/badge/License-GPL%203.0-orange?style=for-the-badge&logo=gnu" alt="GPL v3 License">
     </a>
  
 ---
