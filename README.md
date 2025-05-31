@@ -2,7 +2,7 @@
     <a href="#中文版介绍" style="margin-left: 0; text-decoration: none;">
         <img src="https://img.shields.io/badge/跳转到中文版-中文介绍-red?style=for-the-badge&logo=github&logoColor=white" alt="跳转到中文版">
     </a>
-    <a href="https://github.com/DearCrazyLeaf/CS2-AutoUpdateReboot-PoweshellScript/blob/main/LICENSE.txt" target="_blank" style="margin-left: 10px; text-decoration: none;">
+    <a href="https://www.gnu.org/licenses/gpl-3.0.txt" target="_blank" style="margin-left: 10px; text-decoration: none;">
         <img src="https://img.shields.io/badge/License-GPL%20v3-orange?style=for-the-badge&logo=github" alt="GPL v3 License">
     </a>
     <a href="https://github.com/DearCrazyLeaf/CS2-AutoUpdateReboot-PoweshellScript/issues" target="_blank" style="margin-left: 10px; text-decoration: none;">
@@ -12,6 +12,10 @@
         <img src="https://img.shields.io/github/stars/DearCrazyLeaf/CS2-AutoUpdateReboot-PoweshellScript?style=for-the-badge&logo=github" alt="GitHub Stars">
     </a>
 </div>
+
+> [!WARNING]
+> This script is only used for windows server!  
+> 该脚本仅作用于Windows系统下的服务器！
 
 # CS2-AutoUpdateReboot Powershell script
 
@@ -85,6 +89,12 @@ For more details, see the introduction below.**
 
  Feel free to create Issues or submit Pull Requests if you have any questions, suggestions, or would like to contribute to the project.
 
+ ## License
+
+ <a href="https://www.gnu.org/licenses/gpl-3.0.txt" target="_blank" style="margin-left: 10px; text-decoration: none;">
+        <img src="https://img.shields.io/badge/License-GPL%20v3-orange?style=for-the-badge&logo=github" alt="GPL v3 License">
+    </a>
+
 ---
 # 中文版介绍
 # 基于 Powershell 脚本的 CS2 服务器自动监控和重启更新器
@@ -157,5 +167,11 @@ For more details, see the introduction below.**
 ## 贡献
 
  如果您有任何问题、建议或希望贡献代码，请随时创建 Issue 或提交 Pull Request
+
+## 许可证
+
+<a href="https://www.gnu.org/licenses/gpl-3.0.txt" target="_blank" style="margin-left: 10px; text-decoration: none;">
+        <img src="https://img.shields.io/badge/License-GPL%20v3-orange?style=for-the-badge&logo=github" alt="GPL v3 License">
+    </a>
  
 ---
