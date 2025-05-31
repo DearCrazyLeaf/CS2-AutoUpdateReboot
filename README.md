@@ -5,9 +5,13 @@
     <a href="https://github.com/DearCrazyLeaf/CS2-AutoUpdateReboot-PoweshellScript/stargazers" target="_blank" style="margin-left: 10px; text-decoration: none;"><img src="https://img.shields.io/github/stars/DearCrazyLeaf/CS2-AutoUpdateReboot-PoweshellScript?style=for-the-badge&logo=github" alt="GitHub Stars"></a>
 </div>
 
+---
+
 > [!WARNING]
 > This script is only used for windows server!  
 > 该脚本仅作用于Windows系统下的服务器！
+
+---
 
 # CS2-AutoUpdateReboot Powershell script
 
